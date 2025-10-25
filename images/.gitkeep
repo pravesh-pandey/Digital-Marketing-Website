@@ -1,0 +1,4 @@
+# This file ensures the images directory is tracked by git
+# Add your images here:
+# - headshot.jpg (your profile photo)
+# - client-1.jpg, client-2.jpg, etc. (client photos for testimonials)
